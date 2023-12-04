@@ -1,3 +1,5 @@
+ARCHIVED as it hadn't been updated and the company was acquired.
+
 # Fog::Tutum
 
 ![Gem Version](https://badge.fury.io/rb/fog-tutum.svg) [![Build Status](https://travis-ci.org/fog/fog-tutum.svg?branch=master)](https://travis-ci.org/fog/fog-tutum) [![Dependency Status](https://gemnasium.com/fog/fog-tutum.svg)](https://gemnasium.com/fog/fog-tutum) [![Coverage Status](https://img.shields.io/coveralls/fog/fog-tutum.svg)](https://coveralls.io/r/fog/fog-tutum?branch=master) [![Code Climate](https://codeclimate.com/github/fog/fog-tutum.png)](https://codeclimate.com/github/fog/fog-tutum)
